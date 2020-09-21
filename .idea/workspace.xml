@@ -2,131 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eae3a172-f49d-4248-b95d-33ac071ebacf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-api/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-api/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/classes/com/atguigu/springcloud/entities/Dept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/classes/com/atguigu/springcloud/service/DeptClientService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/classes/com/atguigu/springcloud/service/DeptClientServiceFallbackFactory$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/classes/com/atguigu/springcloud/service/DeptClientServiceFallbackFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-api/target/microservicecloud.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-3344/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-3344/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-config-3344/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-3344/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-config-3344/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-3344/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-3344/target/classes/com/atguigu/springcloud/Config_3344_StartSpringCloudApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-client-3355/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-client-3355/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-config-client-3355/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-client-3355/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-config-client-3355/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-client-3355/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-client-3355/target/classes/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-client-3355/target/classes/com/atguigu/springcloud/ConfigClient_3355_StartSpringCloudApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-client-3355/target/classes/com/atguigu/springcloud/rest/ConfigClientRest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-config-dept-client-8001/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-config-dept-client-8001/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/DeptProvider8001_Config_App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/controller/DeptController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/dao/DeptDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/service/DeptService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/com/atguigu/springcloud/service/impl/DeptServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/mybatis/mapper/DeptMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/mybatis/mybatis.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-config-eureka-client-7001/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-config-eureka-client-7001/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/target/classes/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/target/classes/com/atguigu/springcloud/Config_Git_EurekaServerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-consumer-dept-80/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-consumer-dept-80/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/target/classes/com/atguigu/myrule/MySelfRule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/target/classes/com/atguigu/myrule/RandomRule_ZY.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/target/classes/com/atguigu/springcloud/DeptConsumer80_App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/target/classes/com/atguigu/springcloud/cfgbeans/ConfigBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/target/classes/com/atguigu/springcloud/controller/DeptController_Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-consumer-dept-feign/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-consumer-dept-feign/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/target/classes/com/atguigu/springcloud/DeptConsumer80_Feign_App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/target/classes/com/atguigu/springcloud/cfgbeans/ConfigBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/target/classes/com/atguigu/springcloud/controller/DeptController_Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-consumer-hystrix-dashboard/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-consumer-hystrix-dashboard/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/target/classes/com/atguigu/springcloud/DeptConsumer_DashBoard_App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-7001/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-7001/target/classes/com/atguigu/springcloud/EurekaServer7001_App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-7002/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-7002/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-eureka-7002/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-7002/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-eureka-7002/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-7002/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-7002/target/classes/com/atguigu/springcloud/EurekaServer7002_App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-7003/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-7003/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-eureka-7003/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-7003/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-eureka-7003/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-7003/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-eureka-7003/target/classes/com/atguigu/springcloud/EurekaServer7003_App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-provider-dept-8001/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-provider-dept-8001/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/target/classes/com/atguigu/springcloud/DeptProvider8001_App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/target/classes/com/atguigu/springcloud/controller/DeptController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/target/classes/com/atguigu/springcloud/dao/DeptDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/target/classes/com/atguigu/springcloud/service/DeptService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/target/classes/com/atguigu/springcloud/service/impl/DeptServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/target/classes/mybatis/mapper/DeptMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/target/classes/mybatis/mybatis.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-provider-dept-8002/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-provider-dept-8002/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/target/classes/com/atguigu/springcloud/DeptProvider8002_App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/target/classes/com/atguigu/springcloud/controller/DeptController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/target/classes/com/atguigu/springcloud/dao/DeptDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/target/classes/com/atguigu/springcloud/service/DeptService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/target/classes/com/atguigu/springcloud/service/impl/DeptServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/target/classes/mybatis/mapper/DeptMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/target/classes/mybatis/mybatis.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-provider-dept-8003/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-provider-dept-8003/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/target/classes/com/atguigu/springcloud/DeptProvider8003_App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/target/classes/com/atguigu/springcloud/controller/DeptController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/target/classes/com/atguigu/springcloud/dao/DeptDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/target/classes/com/atguigu/springcloud/service/DeptService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/target/classes/com/atguigu/springcloud/service/impl/DeptServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/target/classes/mybatis/mapper/DeptMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/target/classes/mybatis/mybatis.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-provider-dept-hystrix-8001/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-provider-dept-hystrix-8001/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/target/classes/com/atguigu/springcloud/DeptProvider8001_Hystrix_App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/target/classes/com/atguigu/springcloud/controller/DeptController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/target/classes/com/atguigu/springcloud/dao/DeptDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/target/classes/com/atguigu/springcloud/service/DeptService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/target/classes/com/atguigu/springcloud/service/impl/DeptServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/target/classes/mybatis/mapper/DeptMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/target/classes/mybatis/mybatis.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-zuul-gateway-9527/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/target/classes/META-INF/maven/com.atguigu.springcloud/microservicecloud-zuul-gateway-9527/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/target/classes/com/atguigu/springcloud/Zuul_9527_StartSpringCloudApp.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-3344/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-3344/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/microservicecloud-consumer-dept-80/target/" />
@@ -186,17 +68,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microservicecloud-api/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="280">
+              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/microservicecloud-config-3344/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="280">
+              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -264,11 +146,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-7002/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="840">
+              <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -282,8 +164,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/microservicecloud-api/pom.xml" />
-        <option value="$PROJECT_DIR$/microservicecloud-config-3344/pom.xml" />
         <option value="$PROJECT_DIR$/microservicecloud-config-client-3355/pom.xml" />
         <option value="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/pom.xml" />
         <option value="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/pom.xml" />
@@ -292,6 +172,8 @@
         <option value="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/pom.xml" />
         <option value="$PROJECT_DIR$/microservicecloud-eureka-7001/pom.xml" />
         <option value="$PROJECT_DIR$/microservicecloud-eureka-7002/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-3344/pom.xml" />
       </list>
     </option>
   </component>
@@ -447,6 +329,15 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\spring-cloud-microservice\microservicecloud-api" />
+      <recent name="E:\code\spring-cloud-microservice\microservicecloud-config-3344" />
+      <recent name="E:\code\spring-cloud-microservice\microservicecloud-config-client-3355" />
+      <recent name="E:\code\spring-cloud-microservice\microservicecloud-config-dept-client-8001" />
+      <recent name="E:\code\spring-cloud-microservice\microservicecloud-config-eureka-client-7001" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -466,12 +357,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600671413819</updated>
-      <workItem from="1600671417627" duration="1633000" />
+      <workItem from="1600671417627" duration="1894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1633000" />
+    <option name="totallyTimeSpent" value="1894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -527,20 +418,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-api/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservicecloud-config-3344/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloud-config-client-3355/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -592,8 +469,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloud-eureka-7002/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="840">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-3344/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
         </state>
       </provider>
     </entry>
