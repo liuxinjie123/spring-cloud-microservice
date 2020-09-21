@@ -200,3 +200,16 @@ SpringCloud Config 客户端：
 
 
 # spring-cloud-microservice
+
+
+
+# 给出大家一个spring boot版本和spring cloud版本的匹配关系：
+
+Spring CloudSpring Boot
+Finchley兼容Spring Boot 2.0.x，不兼容Spring Boot 1.5.x
+Dalston和Edgware兼容Spring Boot 1.5.x，不兼容Spring Boot 2.0.x
+Camden兼容Spring Boot 1.4.x，也兼容Spring Boot 1.5.x
+Brixton兼容Spring Boot 1.3.x，也兼容Spring Boot 1.4.x
+Angel兼容Spring Boot 1.2.x
+只要按照上述表格做spring boot和spring cloud的关系匹配，就不会出现该报错了。
+
