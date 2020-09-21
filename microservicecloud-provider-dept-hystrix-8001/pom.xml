@@ -3,10 +3,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
+	<!-- 子类里面显示声明才能有明确的继承表现，无意外就是父类的默认版本否则自己定义 -->
 	<parent>
-		<groupId>com.atguigu.springcloud</groupId>
-		<artifactId>microservicecloud</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<groupId>com.dream.springcloud</groupId>
+		<artifactId>spring-cloud-microservice</artifactId>
+		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 
 	<artifactId>microservicecloud-provider-dept-hystrix-8001</artifactId>
@@ -25,7 +26,7 @@
 		</dependency>
 		<!-- 引入自己定义的api通用包，可以使用Dept部门Entity -->
 		<dependency>
-			<groupId>com.atguigu.springcloud</groupId>
+			<groupId>com.dream.springcloud</groupId>
 			<artifactId>microservicecloud-api</artifactId>
 			<version>${project.version}</version>
 		</dependency>	    	
