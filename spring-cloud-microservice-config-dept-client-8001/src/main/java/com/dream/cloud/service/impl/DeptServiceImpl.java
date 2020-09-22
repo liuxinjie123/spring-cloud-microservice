@@ -7,7 +7,7 @@ import com.dream.cloud.service.DeptService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.dream.cloud.entities.Dept;
+import com.dream.cloud.api.entities.Dept;
 
 @Service
 public class DeptServiceImpl implements DeptService

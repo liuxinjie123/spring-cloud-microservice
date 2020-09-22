@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.apache.ibatis.annotations.Mapper;
 
-import com.dream.cloud.entities.Dept;
+import com.dream.cloud.api.entities.Dept;
 
 @Mapper
 public interface DeptDao

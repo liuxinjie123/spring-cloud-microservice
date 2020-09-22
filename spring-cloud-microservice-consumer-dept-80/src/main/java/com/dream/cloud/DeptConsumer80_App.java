@@ -1,6 +1,6 @@
 package com.dream.cloud;
 
-import com.atguigu.myrule.MySelfRule;
+import com.dream.cloud.consumer_dept_80.myrule.MySelfRule;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;

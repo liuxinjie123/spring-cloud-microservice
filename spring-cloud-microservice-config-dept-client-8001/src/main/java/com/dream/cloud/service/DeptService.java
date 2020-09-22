@@ -2,7 +2,7 @@ package com.dream.cloud.service;
 
 import java.util.List;
 
-import com.dream.cloud.entities.Dept;
+import com.dream.cloud.api.entities.Dept;
 
 public interface DeptService
 {
