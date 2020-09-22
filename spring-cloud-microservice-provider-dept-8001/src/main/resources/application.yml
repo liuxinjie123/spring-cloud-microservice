@@ -9,7 +9,7 @@ mybatis:
     
 spring:
    application:
-    name: spring-cloud-microservice-provider-dept8001 # 应用名称
+    name: spring-cloud-microservice-provider-dept # 应用名称
    datasource:
     type: com.alibaba.druid.pool.DruidDataSource            # 当前数据源操作类型
     driver-class-name: com.mysql.cj.jdbc.Driver              # mysql驱动包
