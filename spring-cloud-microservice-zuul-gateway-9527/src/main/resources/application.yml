@@ -3,7 +3,7 @@ server:
  
 spring: 
   application:
-    name: microservicecloud-zuul-gateway
+    name: spring-cloud-microservice-zuul-gateway
  
 eureka: 
   client: 
@@ -21,7 +21,7 @@ zuul:
   prefix: /java3y
   ignored-services: "*"
   routes: 
-    mydept.serviceId: microservicecloud-dept
+    mydept.serviceId: spring-cloud-microservice-dept
     mydept.path: /mydept/**
  
 info:
